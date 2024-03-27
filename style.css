@@ -20,6 +20,12 @@ body{
     padding-top: 5vh;
 }
 
+.game-title {
+    font-size: 2.5rem; 
+    color: #FF2E63; 
+    margin-top: 20px;
+}
+
 .turn-container{
     width: 170px;
     height: 80px;
